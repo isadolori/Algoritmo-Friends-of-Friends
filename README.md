@@ -20,7 +20,7 @@ O projeto realiza a construção de um grafo não direcionado, ponderado e com m
 * astroquery
 * scipy
 
-Se for necessário rodar esse comando no terminal para instalar as dependências:
+Se for necessário, rodar esse comando no terminal para instalar as dependências:
 
 ```bash
 pip install numpy matplotlib astropy astroquery scipy
